@@ -1,0 +1,30 @@
+[
+    {
+        "title": "the love of allah",
+        "author": "ashna",
+        "year": "2007",
+        "genre": "love",
+        "read": true
+    },
+    {
+        "title": "means of life",
+        "author": "rafay",
+        "year": "2024",
+        "genre": "royal",
+        "read": false
+    },
+    {
+        "title": "2",
+        "author": "3",
+        "year": "4",
+        "genre": "5",
+        "read": false
+    },
+    {
+        "title": "meme",
+        "author": "ashna",
+        "year": "2009",
+        "genre": "cute",
+        "read": true
+    }
+]
